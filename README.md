@@ -8,5 +8,3 @@ Java app that allows:
 	- Markov Assumption;
 	- Maximum Likelihood Estimate (MLE);
 	- Laplace smoothing (if needed);
-
-Was developed for academic purposes for a course on Natural Language Processing
